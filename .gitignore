@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+#visual project files
+OpenGl.vcxproj.user
+OpenGl.vcxproj.filters
+OpenGl.vcxproj
